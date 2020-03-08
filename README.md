@@ -33,7 +33,7 @@ https://github.com/lelouch77/docusurus-lunr-search
 ### Netlify Host
 
 ```
-https://search-localhost-docusaurus.netlify.com 
+https://docusaurus-without-algolia.netlify.com 
 ```
 
 ### Problem
